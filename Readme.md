@@ -87,13 +87,6 @@ The `model/` folder contains:
 - **Model Training**: Training process in `stack_lstm_model_notebook.ipynb`.
 - **Datasets**: Includes raw and processed data for training and testing.
 
-## Screenshots (Optional)
-![Homepage](screenshots/app_homepage.png)
-*The homepage of the application.*
-
-![Prediction Results](screenshots/prediction_results.png)
-*Sample prediction results from the LSTM model.*
-
 ## Future Enhancements
 - Add support for multiple stock indices.
 - Deploy on cloud platforms like AWS or Render for broader accessibility.
